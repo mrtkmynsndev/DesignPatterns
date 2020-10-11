@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Behavioral.Strategy/1.0.0": {
+        "runtime": {
+          "Behavioral.Strategy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Behavioral.Strategy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

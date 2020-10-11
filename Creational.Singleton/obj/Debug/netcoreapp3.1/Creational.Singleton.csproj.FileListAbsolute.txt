@@ -1,0 +1,11 @@
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/bin/Debug/netcoreapp3.1/Creational.Singleton.deps.json
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/bin/Debug/netcoreapp3.1/Creational.Singleton.runtimeconfig.json
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/bin/Debug/netcoreapp3.1/Creational.Singleton.runtimeconfig.dev.json
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/bin/Debug/netcoreapp3.1/Creational.Singleton.dll
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/bin/Debug/netcoreapp3.1/Creational.Singleton.pdb
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/obj/Debug/netcoreapp3.1/Creational.Singleton.AssemblyInfoInputs.cache
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/obj/Debug/netcoreapp3.1/Creational.Singleton.AssemblyInfo.cs
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/obj/Debug/netcoreapp3.1/Creational.Singleton.csproj.CoreCompileInputs.cache
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/obj/Debug/netcoreapp3.1/Creational.Singleton.dll
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/obj/Debug/netcoreapp3.1/Creational.Singleton.pdb
+/Users/mertkimyonsen/learningzone/src/DesignPatterns/src/Creational.Singleton/obj/Debug/netcoreapp3.1/Creational.Singleton.genruntimeconfig.cache
