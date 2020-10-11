@@ -1,9 +1,14 @@
-# Design Patterns (Tasarım Kalıpları)
+> Tasarım kalıpları için türkçe kaynak oluşturmak ve herbir tasarım kalıplarını code örneği üzerinde tecrübe etmek için oluşturulmuş bir repository'dir.
 
-> Tasarım kalıpları için oluşturulmuş repository. 
+# Design Patterns (Tasarım kalıpları)
+* Creational Design Patterns
+* Structural Design Patterns
+* Behavioral Design Patterns
+
+> Tasarım kalıplarını ele aldığım serime aşağıdan ulaşabilirsiniz.
 
 ## Design Patterns (Tasarım kalıpları)
-[Design Patterns] (https://medium.com/@mertkimyonsen/design-patterns-nedir-879ddf1acb3)
+* [Design Patterns] (https://medium.com/@mertkimyonsen/design-patterns-nedir-879ddf1acb3)
 
 ## Creational Design Patterns (Yaratımsal Tasarım kalıpları)
 * [Creational Design Patterns] (https://medium.com/@mertkimyonsen/design-patterns-creational-34910c7f6932)
