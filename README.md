@@ -7,7 +7,7 @@
 
 > Tasarım kalıplarını ele aldığım serime aşağıdan ulaşabilirsiniz.
 
-## Design Patterns (Tasarım kalıpları)
+## Design Patterns (Tasarım kalıpları) (Giriş)
 * [Design Patterns] (https://medium.com/@mertkimyonsen/design-patterns-nedir-879ddf1acb3)
 
 ## Creational Design Patterns (Yaratımsal Tasarım kalıpları)
